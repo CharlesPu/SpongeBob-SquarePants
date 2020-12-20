@@ -92,6 +92,7 @@
 * [438.字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)(s中是p的排列的所有子串)
 * [3.无重复字符的子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
 * [18.4数之和](https://leetcode-cn.com/problems/4sum)
+* [40.组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/) 升级版N数之和
 
 ## 单调栈
 * [496.下一个更大的元素](https://leetcode-cn.com/problems/next-greater-element-i)
@@ -116,4 +117,4 @@
 * [92.反转链表一部分](https://leetcode-cn.com/problems/reverse-linked-list-ii)m到n
 * [25.k个一组](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
 * [234.是否回文](https://leetcode-cn.com/problems/palindrome-linked-list)
-    
+     
